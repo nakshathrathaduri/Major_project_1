@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn==1.9.0
+sqlalchemy
+plotly
+textblob
+nltk
+spacy
+scipy
+pytest
+python-dotenv
+fpdf2
+joblib

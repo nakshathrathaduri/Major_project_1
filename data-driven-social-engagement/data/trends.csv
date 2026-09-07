@@ -1,0 +1,361 @@
+date,keyword,hashtag,topic,search_volume,mentions,growth_rate
+2026-08-07,social anxiety,#socialanxiety,Social Anxiety,2765,276,0.0
+2026-08-08,social anxiety,#socialanxiety,Social Anxiety,4814,481,0.02
+2026-08-09,social anxiety,#socialanxiety,Social Anxiety,1878,187,0.04
+2026-08-10,social anxiety,#socialanxiety,Social Anxiety,3470,347,0.06
+2026-08-11,social anxiety,#socialanxiety,Social Anxiety,4857,485,0.08
+2026-08-12,social anxiety,#socialanxiety,Social Anxiety,3381,338,0.1
+2026-08-13,social anxiety,#socialanxiety,Social Anxiety,4931,493,0.12
+2026-08-14,social anxiety,#socialanxiety,Social Anxiety,2439,243,0.14
+2026-08-15,social anxiety,#socialanxiety,Social Anxiety,1262,126,0.16
+2026-08-16,social anxiety,#socialanxiety,Social Anxiety,4325,432,0.18
+2026-08-17,social anxiety,#socialanxiety,Social Anxiety,5764,576,0.2
+2026-08-18,social anxiety,#socialanxiety,Social Anxiety,3364,336,0.22
+2026-08-19,social anxiety,#socialanxiety,Social Anxiety,1390,139,0.24
+2026-08-20,social anxiety,#socialanxiety,Social Anxiety,3675,367,0.26
+2026-08-21,social anxiety,#socialanxiety,Social Anxiety,2387,238,0.28
+2026-08-22,social anxiety,#socialanxiety,Social Anxiety,1341,134,0.3
+2026-08-23,social anxiety,#socialanxiety,Social Anxiety,2114,211,0.32
+2026-08-24,social anxiety,#socialanxiety,Social Anxiety,2271,227,0.34
+2026-08-25,social anxiety,#socialanxiety,Social Anxiety,5351,535,0.36
+2026-08-26,social anxiety,#socialanxiety,Social Anxiety,6680,668,0.38
+2026-08-27,social anxiety,#socialanxiety,Social Anxiety,6256,625,0.4
+2026-08-28,social anxiety,#socialanxiety,Social Anxiety,2164,216,0.42
+2026-08-29,social anxiety,#socialanxiety,Social Anxiety,2947,294,0.44
+2026-08-30,social anxiety,#socialanxiety,Social Anxiety,3428,342,0.46
+2026-08-31,social anxiety,#socialanxiety,Social Anxiety,4559,455,0.48
+2026-09-01,social anxiety,#socialanxiety,Social Anxiety,1869,186,0.5
+2026-09-02,social anxiety,#socialanxiety,Social Anxiety,7487,748,0.52
+2026-09-03,social anxiety,#socialanxiety,Social Anxiety,6298,629,0.54
+2026-09-04,social anxiety,#socialanxiety,Social Anxiety,6397,639,0.56
+2026-09-05,social anxiety,#socialanxiety,Social Anxiety,4891,489,0.58
+2026-08-07,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,2732,273,-0.078
+2026-08-08,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,2539,253,0.061
+2026-08-09,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,1614,161,-0.071
+2026-08-10,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,3586,358,-0.014
+2026-08-11,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,4441,444,0.038
+2026-08-12,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,4758,475,0.022
+2026-08-13,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,3480,348,0.037
+2026-08-14,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,3834,383,-0.092
+2026-08-15,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,3282,328,0.074
+2026-08-16,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,3293,329,0.064
+2026-08-17,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,3693,369,-0.085
+2026-08-18,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,4119,411,0.056
+2026-08-19,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,5267,526,0.077
+2026-08-20,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,1764,176,-0.005
+2026-08-21,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,3684,368,0.014
+2026-08-22,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,1341,134,0.07
+2026-08-23,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,3971,397,-0.058
+2026-08-24,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,3911,391,0.033
+2026-08-25,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,1483,148,-0.042
+2026-08-26,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,1781,178,-0.014
+2026-08-27,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,2528,252,-0.091
+2026-08-28,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,2350,235,-0.096
+2026-08-29,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,3878,387,-0.077
+2026-08-30,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,1789,178,-0.048
+2026-08-31,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,1208,120,0.037
+2026-09-01,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,1021,102,-0.081
+2026-09-02,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,3298,329,-0.094
+2026-09-03,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,2988,298,-0.018
+2026-09-04,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,1712,171,0.026
+2026-09-05,overwhelmed in public,#overwhelmedinpublic,Social Anxiety,4215,421,-0.087
+2026-08-07,social battery,#socialbattery,Social Anxiety,4284,428,-0.066
+2026-08-08,social battery,#socialbattery,Social Anxiety,1928,192,-0.018
+2026-08-09,social battery,#socialbattery,Social Anxiety,3295,329,-0.025
+2026-08-10,social battery,#socialbattery,Social Anxiety,3919,391,0.029
+2026-08-11,social battery,#socialbattery,Social Anxiety,3059,305,0.032
+2026-08-12,social battery,#socialbattery,Social Anxiety,1858,185,0.02
+2026-08-13,social battery,#socialbattery,Social Anxiety,3108,310,0.016
+2026-08-14,social battery,#socialbattery,Social Anxiety,3278,327,-0.033
+2026-08-15,social battery,#socialbattery,Social Anxiety,2906,290,0.008
+2026-08-16,social battery,#socialbattery,Social Anxiety,4299,429,-0.015
+2026-08-17,social battery,#socialbattery,Social Anxiety,1098,109,0.02
+2026-08-18,social battery,#socialbattery,Social Anxiety,2194,219,-0.085
+2026-08-19,social battery,#socialbattery,Social Anxiety,4128,412,0.022
+2026-08-20,social battery,#socialbattery,Social Anxiety,2368,236,-0.076
+2026-08-21,social battery,#socialbattery,Social Anxiety,3546,354,-0.009
+2026-08-22,social battery,#socialbattery,Social Anxiety,3941,394,-0.02
+2026-08-23,social battery,#socialbattery,Social Anxiety,2859,285,-0.014
+2026-08-24,social battery,#socialbattery,Social Anxiety,1196,119,0.065
+2026-08-25,social battery,#socialbattery,Social Anxiety,3167,316,0.032
+2026-08-26,social battery,#socialbattery,Social Anxiety,3580,358,0.008
+2026-08-27,social battery,#socialbattery,Social Anxiety,1974,197,-0.034
+2026-08-28,social battery,#socialbattery,Social Anxiety,4477,447,-0.013
+2026-08-29,social battery,#socialbattery,Social Anxiety,2864,286,-0.034
+2026-08-30,social battery,#socialbattery,Social Anxiety,1733,173,-0.075
+2026-08-31,social battery,#socialbattery,Social Anxiety,4255,425,-0.052
+2026-09-01,social battery,#socialbattery,Social Anxiety,2974,297,0.033
+2026-09-02,social battery,#socialbattery,Social Anxiety,3300,330,0.046
+2026-09-03,social battery,#socialbattery,Social Anxiety,4605,460,-0.001
+2026-09-04,social battery,#socialbattery,Social Anxiety,4999,499,0.015
+2026-09-05,social battery,#socialbattery,Social Anxiety,3734,373,-0.0
+2026-08-07,study burnout,#studyburnout,Academic Stress,2334,233,0.0
+2026-08-08,study burnout,#studyburnout,Academic Stress,5083,508,0.02
+2026-08-09,study burnout,#studyburnout,Academic Stress,1733,173,0.04
+2026-08-10,study burnout,#studyburnout,Academic Stress,1467,146,0.06
+2026-08-11,study burnout,#studyburnout,Academic Stress,4453,445,0.08
+2026-08-12,study burnout,#studyburnout,Academic Stress,2868,286,0.1
+2026-08-13,study burnout,#studyburnout,Academic Stress,4764,476,0.12
+2026-08-14,study burnout,#studyburnout,Academic Stress,5061,506,0.14
+2026-08-15,study burnout,#studyburnout,Academic Stress,4347,434,0.16
+2026-08-16,study burnout,#studyburnout,Academic Stress,1194,119,0.18
+2026-08-17,study burnout,#studyburnout,Academic Stress,5556,555,0.2
+2026-08-18,study burnout,#studyburnout,Academic Stress,4888,488,0.22
+2026-08-19,study burnout,#studyburnout,Academic Stress,3976,397,0.24
+2026-08-20,study burnout,#studyburnout,Academic Stress,2906,290,0.26
+2026-08-21,study burnout,#studyburnout,Academic Stress,4623,462,0.28
+2026-08-22,study burnout,#studyburnout,Academic Stress,5665,566,0.3
+2026-08-23,study burnout,#studyburnout,Academic Stress,4032,403,0.32
+2026-08-24,study burnout,#studyburnout,Academic Stress,1435,143,0.34
+2026-08-25,study burnout,#studyburnout,Academic Stress,5357,535,0.36
+2026-08-26,study burnout,#studyburnout,Academic Stress,4340,434,0.38
+2026-08-27,study burnout,#studyburnout,Academic Stress,4387,438,0.4
+2026-08-28,study burnout,#studyburnout,Academic Stress,4068,406,0.42
+2026-08-29,study burnout,#studyburnout,Academic Stress,1584,158,0.44
+2026-08-30,study burnout,#studyburnout,Academic Stress,1868,186,0.46
+2026-08-31,study burnout,#studyburnout,Academic Stress,2785,278,0.48
+2026-09-01,study burnout,#studyburnout,Academic Stress,3468,346,0.5
+2026-09-02,study burnout,#studyburnout,Academic Stress,5769,576,0.52
+2026-09-03,study burnout,#studyburnout,Academic Stress,4994,499,0.54
+2026-09-04,study burnout,#studyburnout,Academic Stress,5363,536,0.56
+2026-09-05,study burnout,#studyburnout,Academic Stress,2540,254,0.58
+2026-08-07,exam pressure,#exampressure,Academic Stress,1319,131,-0.09
+2026-08-08,exam pressure,#exampressure,Academic Stress,4238,423,0.017
+2026-08-09,exam pressure,#exampressure,Academic Stress,1101,110,-0.016
+2026-08-10,exam pressure,#exampressure,Academic Stress,3251,325,-0.038
+2026-08-11,exam pressure,#exampressure,Academic Stress,1356,135,0.03
+2026-08-12,exam pressure,#exampressure,Academic Stress,4283,428,-0.015
+2026-08-13,exam pressure,#exampressure,Academic Stress,4670,467,0.095
+2026-08-14,exam pressure,#exampressure,Academic Stress,978,97,-0.041
+2026-08-15,exam pressure,#exampressure,Academic Stress,3136,313,-0.035
+2026-08-16,exam pressure,#exampressure,Academic Stress,1707,170,-0.099
+2026-08-17,exam pressure,#exampressure,Academic Stress,3377,337,-0.049
+2026-08-18,exam pressure,#exampressure,Academic Stress,1036,103,-0.027
+2026-08-19,exam pressure,#exampressure,Academic Stress,1418,141,-0.036
+2026-08-20,exam pressure,#exampressure,Academic Stress,3823,382,-0.095
+2026-08-21,exam pressure,#exampressure,Academic Stress,3229,322,-0.067
+2026-08-22,exam pressure,#exampressure,Academic Stress,2704,270,0.004
+2026-08-23,exam pressure,#exampressure,Academic Stress,2277,227,0.018
+2026-08-24,exam pressure,#exampressure,Academic Stress,4494,449,-0.035
+2026-08-25,exam pressure,#exampressure,Academic Stress,3090,309,0.022
+2026-08-26,exam pressure,#exampressure,Academic Stress,2084,208,0.014
+2026-08-27,exam pressure,#exampressure,Academic Stress,3965,396,-0.096
+2026-08-28,exam pressure,#exampressure,Academic Stress,952,95,-0.063
+2026-08-29,exam pressure,#exampressure,Academic Stress,2905,290,-0.015
+2026-08-30,exam pressure,#exampressure,Academic Stress,3760,376,0.08
+2026-08-31,exam pressure,#exampressure,Academic Stress,2062,206,0.022
+2026-09-01,exam pressure,#exampressure,Academic Stress,1660,166,-0.066
+2026-09-02,exam pressure,#exampressure,Academic Stress,4592,459,-0.001
+2026-09-03,exam pressure,#exampressure,Academic Stress,4981,498,0.019
+2026-09-04,exam pressure,#exampressure,Academic Stress,3836,383,0.062
+2026-09-05,exam pressure,#exampressure,Academic Stress,4367,436,-0.041
+2026-08-07,failing college,#failingcollege,Academic Stress,3322,332,0.072
+2026-08-08,failing college,#failingcollege,Academic Stress,2858,285,-0.056
+2026-08-09,failing college,#failingcollege,Academic Stress,2753,275,-0.086
+2026-08-10,failing college,#failingcollege,Academic Stress,4138,413,0.001
+2026-08-11,failing college,#failingcollege,Academic Stress,4137,413,-0.05
+2026-08-12,failing college,#failingcollege,Academic Stress,3956,395,-0.029
+2026-08-13,failing college,#failingcollege,Academic Stress,1720,172,-0.096
+2026-08-14,failing college,#failingcollege,Academic Stress,3536,353,-0.094
+2026-08-15,failing college,#failingcollege,Academic Stress,2011,201,-0.061
+2026-08-16,failing college,#failingcollege,Academic Stress,3989,398,0.039
+2026-08-17,failing college,#failingcollege,Academic Stress,3106,310,-0.05
+2026-08-18,failing college,#failingcollege,Academic Stress,4407,440,-0.037
+2026-08-19,failing college,#failingcollege,Academic Stress,2068,206,0.072
+2026-08-20,failing college,#failingcollege,Academic Stress,3818,381,-0.028
+2026-08-21,failing college,#failingcollege,Academic Stress,2331,233,0.027
+2026-08-22,failing college,#failingcollege,Academic Stress,2232,223,-0.021
+2026-08-23,failing college,#failingcollege,Academic Stress,3869,386,0.079
+2026-08-24,failing college,#failingcollege,Academic Stress,3079,307,-0.007
+2026-08-25,failing college,#failingcollege,Academic Stress,3462,346,0.032
+2026-08-26,failing college,#failingcollege,Academic Stress,1830,183,-0.035
+2026-08-27,failing college,#failingcollege,Academic Stress,4706,470,0.006
+2026-08-28,failing college,#failingcollege,Academic Stress,1889,188,0.065
+2026-08-29,failing college,#failingcollege,Academic Stress,2255,225,0.044
+2026-08-30,failing college,#failingcollege,Academic Stress,4710,471,0.089
+2026-08-31,failing college,#failingcollege,Academic Stress,2495,249,-0.068
+2026-09-01,failing college,#failingcollege,Academic Stress,4141,414,-0.042
+2026-09-02,failing college,#failingcollege,Academic Stress,4385,438,-0.068
+2026-09-03,failing college,#failingcollege,Academic Stress,3898,389,0.06
+2026-09-04,failing college,#failingcollege,Academic Stress,2378,237,0.014
+2026-09-05,failing college,#failingcollege,Academic Stress,3052,305,0.057
+2026-08-07,dating burnout,#datingburnout,Dating,2187,218,0.0
+2026-08-08,dating burnout,#datingburnout,Dating,4821,482,0.02
+2026-08-09,dating burnout,#datingburnout,Dating,2452,245,0.04
+2026-08-10,dating burnout,#datingburnout,Dating,5295,529,0.06
+2026-08-11,dating burnout,#datingburnout,Dating,3630,363,0.08
+2026-08-12,dating burnout,#datingburnout,Dating,3230,323,0.1
+2026-08-13,dating burnout,#datingburnout,Dating,4471,447,0.12
+2026-08-14,dating burnout,#datingburnout,Dating,3744,374,0.14
+2026-08-15,dating burnout,#datingburnout,Dating,3142,314,0.16
+2026-08-16,dating burnout,#datingburnout,Dating,3693,369,0.18
+2026-08-17,dating burnout,#datingburnout,Dating,4459,445,0.2
+2026-08-18,dating burnout,#datingburnout,Dating,3646,364,0.22
+2026-08-19,dating burnout,#datingburnout,Dating,5183,518,0.24
+2026-08-20,dating burnout,#datingburnout,Dating,1483,148,0.26
+2026-08-21,dating burnout,#datingburnout,Dating,1598,159,0.28
+2026-08-22,dating burnout,#datingburnout,Dating,2293,229,0.3
+2026-08-23,dating burnout,#datingburnout,Dating,6122,612,0.32
+2026-08-24,dating burnout,#datingburnout,Dating,4976,497,0.34
+2026-08-25,dating burnout,#datingburnout,Dating,5371,537,0.36
+2026-08-26,dating burnout,#datingburnout,Dating,1504,150,0.38
+2026-08-27,dating burnout,#datingburnout,Dating,1873,187,0.4
+2026-08-28,dating burnout,#datingburnout,Dating,3778,377,0.42
+2026-08-29,dating burnout,#datingburnout,Dating,4135,413,0.44
+2026-08-30,dating burnout,#datingburnout,Dating,1705,170,0.46
+2026-08-31,dating burnout,#datingburnout,Dating,6230,623,0.48
+2026-09-01,dating burnout,#datingburnout,Dating,6882,688,0.5
+2026-09-02,dating burnout,#datingburnout,Dating,5510,551,0.52
+2026-09-03,dating burnout,#datingburnout,Dating,7228,722,0.54
+2026-09-04,dating burnout,#datingburnout,Dating,6637,663,0.56
+2026-09-05,dating burnout,#datingburnout,Dating,2810,281,0.58
+2026-08-07,ghosting,#ghosting,Dating,1079,107,-0.076
+2026-08-08,ghosting,#ghosting,Dating,5340,534,0.087
+2026-08-09,ghosting,#ghosting,Dating,1640,164,0.081
+2026-08-10,ghosting,#ghosting,Dating,4231,423,0.055
+2026-08-11,ghosting,#ghosting,Dating,3614,361,0.041
+2026-08-12,ghosting,#ghosting,Dating,3721,372,0.009
+2026-08-13,ghosting,#ghosting,Dating,3241,324,0.068
+2026-08-14,ghosting,#ghosting,Dating,3315,331,0.041
+2026-08-15,ghosting,#ghosting,Dating,3309,330,0.07
+2026-08-16,ghosting,#ghosting,Dating,3369,336,-0.013
+2026-08-17,ghosting,#ghosting,Dating,3369,336,-0.058
+2026-08-18,ghosting,#ghosting,Dating,4541,454,-0.072
+2026-08-19,ghosting,#ghosting,Dating,4397,439,-0.003
+2026-08-20,ghosting,#ghosting,Dating,2274,227,-0.087
+2026-08-21,ghosting,#ghosting,Dating,1841,184,-0.079
+2026-08-22,ghosting,#ghosting,Dating,3156,315,0.046
+2026-08-23,ghosting,#ghosting,Dating,2846,284,0.085
+2026-08-24,ghosting,#ghosting,Dating,3309,330,0.006
+2026-08-25,ghosting,#ghosting,Dating,1963,196,-0.038
+2026-08-26,ghosting,#ghosting,Dating,3988,398,0.015
+2026-08-27,ghosting,#ghosting,Dating,3694,369,-0.091
+2026-08-28,ghosting,#ghosting,Dating,1652,165,-0.097
+2026-08-29,ghosting,#ghosting,Dating,1504,150,0.06
+2026-08-30,ghosting,#ghosting,Dating,2825,282,-0.077
+2026-08-31,ghosting,#ghosting,Dating,2249,224,-0.063
+2026-09-01,ghosting,#ghosting,Dating,4282,428,0.026
+2026-09-02,ghosting,#ghosting,Dating,4424,442,-0.046
+2026-09-03,ghosting,#ghosting,Dating,1633,163,0.003
+2026-09-04,ghosting,#ghosting,Dating,2624,262,-0.074
+2026-09-05,ghosting,#ghosting,Dating,2019,201,0.061
+2026-08-07,dating apps exhaustion,#datingappsexhaustion,Dating,4228,422,-0.014
+2026-08-08,dating apps exhaustion,#datingappsexhaustion,Dating,2505,250,-0.032
+2026-08-09,dating apps exhaustion,#datingappsexhaustion,Dating,1085,108,0.074
+2026-08-10,dating apps exhaustion,#datingappsexhaustion,Dating,2343,234,-0.036
+2026-08-11,dating apps exhaustion,#datingappsexhaustion,Dating,2546,254,-0.08
+2026-08-12,dating apps exhaustion,#datingappsexhaustion,Dating,4624,462,-0.048
+2026-08-13,dating apps exhaustion,#datingappsexhaustion,Dating,4249,424,-0.083
+2026-08-14,dating apps exhaustion,#datingappsexhaustion,Dating,1138,113,-0.082
+2026-08-15,dating apps exhaustion,#datingappsexhaustion,Dating,2788,278,-0.056
+2026-08-16,dating apps exhaustion,#datingappsexhaustion,Dating,3696,369,-0.065
+2026-08-17,dating apps exhaustion,#datingappsexhaustion,Dating,2395,239,-0.032
+2026-08-18,dating apps exhaustion,#datingappsexhaustion,Dating,1978,197,-0.023
+2026-08-19,dating apps exhaustion,#datingappsexhaustion,Dating,3870,387,0.047
+2026-08-20,dating apps exhaustion,#datingappsexhaustion,Dating,3949,394,-0.019
+2026-08-21,dating apps exhaustion,#datingappsexhaustion,Dating,2335,233,0.091
+2026-08-22,dating apps exhaustion,#datingappsexhaustion,Dating,2478,247,-0.02
+2026-08-23,dating apps exhaustion,#datingappsexhaustion,Dating,2943,294,0.09
+2026-08-24,dating apps exhaustion,#datingappsexhaustion,Dating,1138,113,-0.065
+2026-08-25,dating apps exhaustion,#datingappsexhaustion,Dating,1635,163,-0.052
+2026-08-26,dating apps exhaustion,#datingappsexhaustion,Dating,2377,237,-0.045
+2026-08-27,dating apps exhaustion,#datingappsexhaustion,Dating,1440,144,-0.051
+2026-08-28,dating apps exhaustion,#datingappsexhaustion,Dating,3679,367,0.037
+2026-08-29,dating apps exhaustion,#datingappsexhaustion,Dating,4451,445,-0.028
+2026-08-30,dating apps exhaustion,#datingappsexhaustion,Dating,1445,144,0.015
+2026-08-31,dating apps exhaustion,#datingappsexhaustion,Dating,2470,247,0.015
+2026-09-01,dating apps exhaustion,#datingappsexhaustion,Dating,1820,182,-0.033
+2026-09-02,dating apps exhaustion,#datingappsexhaustion,Dating,1412,141,-0.013
+2026-09-03,dating apps exhaustion,#datingappsexhaustion,Dating,4163,416,-0.024
+2026-09-04,dating apps exhaustion,#datingappsexhaustion,Dating,2227,222,-0.067
+2026-09-05,dating apps exhaustion,#datingappsexhaustion,Dating,4196,419,0.054
+2026-08-07,quiet quitting,#quietquitting,Career Pressure,3126,312,0.004
+2026-08-08,quiet quitting,#quietquitting,Career Pressure,1125,112,0.04
+2026-08-09,quiet quitting,#quietquitting,Career Pressure,1813,181,0.021
+2026-08-10,quiet quitting,#quietquitting,Career Pressure,4061,406,0.06
+2026-08-11,quiet quitting,#quietquitting,Career Pressure,2252,225,0.055
+2026-08-12,quiet quitting,#quietquitting,Career Pressure,2706,270,0.068
+2026-08-13,quiet quitting,#quietquitting,Career Pressure,1522,152,0.0
+2026-08-14,quiet quitting,#quietquitting,Career Pressure,3376,337,0.038
+2026-08-15,quiet quitting,#quietquitting,Career Pressure,3493,349,0.038
+2026-08-16,quiet quitting,#quietquitting,Career Pressure,3775,377,-0.044
+2026-08-17,quiet quitting,#quietquitting,Career Pressure,1629,162,-0.083
+2026-08-18,quiet quitting,#quietquitting,Career Pressure,3418,341,-0.046
+2026-08-19,quiet quitting,#quietquitting,Career Pressure,3524,352,0.025
+2026-08-20,quiet quitting,#quietquitting,Career Pressure,2935,293,-0.028
+2026-08-21,quiet quitting,#quietquitting,Career Pressure,2792,279,0.063
+2026-08-22,quiet quitting,#quietquitting,Career Pressure,2039,203,0.021
+2026-08-23,quiet quitting,#quietquitting,Career Pressure,4408,440,0.053
+2026-08-24,quiet quitting,#quietquitting,Career Pressure,3571,357,0.086
+2026-08-25,quiet quitting,#quietquitting,Career Pressure,2672,267,-0.051
+2026-08-26,quiet quitting,#quietquitting,Career Pressure,1605,160,-0.046
+2026-08-27,quiet quitting,#quietquitting,Career Pressure,2406,240,0.078
+2026-08-28,quiet quitting,#quietquitting,Career Pressure,3178,317,0.05
+2026-08-29,quiet quitting,#quietquitting,Career Pressure,3017,301,-0.035
+2026-08-30,quiet quitting,#quietquitting,Career Pressure,1165,116,0.034
+2026-08-31,quiet quitting,#quietquitting,Career Pressure,2322,232,-0.015
+2026-09-01,quiet quitting,#quietquitting,Career Pressure,1546,154,-0.015
+2026-09-02,quiet quitting,#quietquitting,Career Pressure,3779,377,0.09
+2026-09-03,quiet quitting,#quietquitting,Career Pressure,5222,522,0.062
+2026-09-04,quiet quitting,#quietquitting,Career Pressure,4457,445,-0.082
+2026-09-05,quiet quitting,#quietquitting,Career Pressure,4227,422,-0.088
+2026-08-07,job market stress,#jobmarketstress,Career Pressure,2537,253,0.075
+2026-08-08,job market stress,#jobmarketstress,Career Pressure,4613,461,-0.039
+2026-08-09,job market stress,#jobmarketstress,Career Pressure,3596,359,-0.091
+2026-08-10,job market stress,#jobmarketstress,Career Pressure,3141,314,0.046
+2026-08-11,job market stress,#jobmarketstress,Career Pressure,4760,476,0.068
+2026-08-12,job market stress,#jobmarketstress,Career Pressure,2410,241,0.033
+2026-08-13,job market stress,#jobmarketstress,Career Pressure,2307,230,0.003
+2026-08-14,job market stress,#jobmarketstress,Career Pressure,5065,506,0.092
+2026-08-15,job market stress,#jobmarketstress,Career Pressure,1266,126,0.026
+2026-08-16,job market stress,#jobmarketstress,Career Pressure,3980,398,-0.054
+2026-08-17,job market stress,#jobmarketstress,Career Pressure,2495,249,0.032
+2026-08-18,job market stress,#jobmarketstress,Career Pressure,4130,413,-0.073
+2026-08-19,job market stress,#jobmarketstress,Career Pressure,4000,400,-0.06
+2026-08-20,job market stress,#jobmarketstress,Career Pressure,2252,225,0.08
+2026-08-21,job market stress,#jobmarketstress,Career Pressure,1789,178,-0.043
+2026-08-22,job market stress,#jobmarketstress,Career Pressure,4810,481,0.02
+2026-08-23,job market stress,#jobmarketstress,Career Pressure,2033,203,0.09
+2026-08-24,job market stress,#jobmarketstress,Career Pressure,4384,438,-0.036
+2026-08-25,job market stress,#jobmarketstress,Career Pressure,1567,156,0.073
+2026-08-26,job market stress,#jobmarketstress,Career Pressure,1422,142,0.006
+2026-08-27,job market stress,#jobmarketstress,Career Pressure,3236,323,-0.0
+2026-08-28,job market stress,#jobmarketstress,Career Pressure,2040,204,-0.096
+2026-08-29,job market stress,#jobmarketstress,Career Pressure,4013,401,-0.053
+2026-08-30,job market stress,#jobmarketstress,Career Pressure,1233,123,0.057
+2026-08-31,job market stress,#jobmarketstress,Career Pressure,3564,356,-0.04
+2026-09-01,job market stress,#jobmarketstress,Career Pressure,3349,334,-0.023
+2026-09-02,job market stress,#jobmarketstress,Career Pressure,4568,456,0.051
+2026-09-03,job market stress,#jobmarketstress,Career Pressure,5009,500,0.016
+2026-09-04,job market stress,#jobmarketstress,Career Pressure,4634,463,0.021
+2026-09-05,job market stress,#jobmarketstress,Career Pressure,1044,104,-0.091
+2026-08-07,imposter syndrome,#impostersyndrome,Career Pressure,1742,174,-0.044
+2026-08-08,imposter syndrome,#impostersyndrome,Career Pressure,3497,349,0.042
+2026-08-09,imposter syndrome,#impostersyndrome,Career Pressure,2456,245,0.001
+2026-08-10,imposter syndrome,#impostersyndrome,Career Pressure,1252,125,-0.04
+2026-08-11,imposter syndrome,#impostersyndrome,Career Pressure,4101,410,-0.061
+2026-08-12,imposter syndrome,#impostersyndrome,Career Pressure,1122,112,-0.039
+2026-08-13,imposter syndrome,#impostersyndrome,Career Pressure,1844,184,-0.091
+2026-08-14,imposter syndrome,#impostersyndrome,Career Pressure,4445,444,0.058
+2026-08-15,imposter syndrome,#impostersyndrome,Career Pressure,1325,132,-0.015
+2026-08-16,imposter syndrome,#impostersyndrome,Career Pressure,4813,481,0.031
+2026-08-17,imposter syndrome,#impostersyndrome,Career Pressure,3269,326,-0.054
+2026-08-18,imposter syndrome,#impostersyndrome,Career Pressure,1874,187,0.095
+2026-08-19,imposter syndrome,#impostersyndrome,Career Pressure,4588,458,0.034
+2026-08-20,imposter syndrome,#impostersyndrome,Career Pressure,3730,373,0.042
+2026-08-21,imposter syndrome,#impostersyndrome,Career Pressure,4824,482,0.049
+2026-08-22,imposter syndrome,#impostersyndrome,Career Pressure,3573,357,-0.077
+2026-08-23,imposter syndrome,#impostersyndrome,Career Pressure,1061,106,-0.015
+2026-08-24,imposter syndrome,#impostersyndrome,Career Pressure,3749,374,0.043
+2026-08-25,imposter syndrome,#impostersyndrome,Career Pressure,4211,421,-0.017
+2026-08-26,imposter syndrome,#impostersyndrome,Career Pressure,3793,379,0.012
+2026-08-27,imposter syndrome,#impostersyndrome,Career Pressure,2547,254,-0.069
+2026-08-28,imposter syndrome,#impostersyndrome,Career Pressure,3282,328,-0.086
+2026-08-29,imposter syndrome,#impostersyndrome,Career Pressure,4102,410,0.06
+2026-08-30,imposter syndrome,#impostersyndrome,Career Pressure,1279,127,-0.093
+2026-08-31,imposter syndrome,#impostersyndrome,Career Pressure,2080,208,-0.017
+2026-09-01,imposter syndrome,#impostersyndrome,Career Pressure,5032,503,0.034
+2026-09-02,imposter syndrome,#impostersyndrome,Career Pressure,3192,319,0.039
+2026-09-03,imposter syndrome,#impostersyndrome,Career Pressure,1477,147,0.093
+2026-09-04,imposter syndrome,#impostersyndrome,Career Pressure,3438,343,0.059
+2026-09-05,imposter syndrome,#impostersyndrome,Career Pressure,1835,183,-0.006
